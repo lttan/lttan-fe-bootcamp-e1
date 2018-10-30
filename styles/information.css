@@ -1,0 +1,16 @@
+/*
+LE TRAN TRUONG AN - 0795
+*/
+
+table, thead, td {
+    border: 1px solid black;
+ }
+
+ thead tr td {
+    font-weight: bold;
+    color: blue;
+ }
+
+ tr td {
+    font-size: 25px;
+}
